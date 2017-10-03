@@ -1,6 +1,6 @@
 # MAGAHelpers
 [![Uptime Robot status](https://img.shields.io/badge/platform-iOS-blue.svg)]()
-[![Uptime Robot status](https://img.shields.io/badge/pod-v1.0.4-green.svg)]()
+[![Uptime Robot status](https://img.shields.io/badge/pod_version-v1.0.4-green.svg)]()
 [![Uptime Robot status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36.svg)]()
 [![CocoaPods](https://img.shields.io/cocoapods/l/AFNetworking.svg)]()
 
