@@ -16,3 +16,8 @@ MAGAHelpers is a very simple library of components I use to build out production
 - iOS 10.0+
 - Xcode 8.3+
 - Swift 3+
+
+## Helpers
+
+- [x] Layout Views
+- [x] Color
