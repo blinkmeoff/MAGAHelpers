@@ -4,6 +4,7 @@
 [![Version](https://img.shields.io/cocoapods/v/LBTAComponents.svg?style=flat)](http://cocoapods.org/pods/LBTAComponents)
 [![License](https://img.shields.io/cocoapods/l/LBTAComponents.svg?style=flat)](http://cocoapods.org/pods/LBTAComponents)
 [![Platform](https://img.shields.io/cocoapods/p/LBTAComponents.svg?style=flat)](http://cocoapods.org/pods/LBTAComponents)
+[![CocoaPods](https://img.shields.io/cocoapods/l/AFNetworking.svg)]()
 
 ![LBTABanner](http://i.imgur.com/tTQOLtp.png)
 
