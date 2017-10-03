@@ -21,3 +21,25 @@ MAGAHelpers is a very simple library of components I use to build out production
 
 - [x] Layout Views
 - [x] Color
+
+## Installation
+
+### CocoaPods
+
+[CocoaPods](http://cocoapods.org) is a dependency manager for Cocoa projects. You can install it with the following command:
+
+```bash
+$ gem install cocoapods
+```
+To integrate MAGAHelpers into your Xcode project using CocoaPods, specify it in your `Podfile`:
+
+target '<Your Target Name>' do
+    pod 'MAGAHelpers'
+end
+```
+
+Then, run the following command:
+
+```bash
+$ pod install
+```
