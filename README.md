@@ -1,9 +1,8 @@
 # MAGAHelpers
 
 [![CI Status](http://img.shields.io/travis/Brian Voong/LBTAComponents.svg?style=flat)](https://travis-ci.org/Brian Voong/LBTAComponents)
-[![Version](https://img.shields.io/cocoapods/v/LBTAComponents.svg?style=flat)](http://cocoapods.org/pods/LBTAComponents)
-[![License](https://img.shields.io/cocoapods/l/LBTAComponents.svg?style=flat)](http://cocoapods.org/pods/LBTAComponents)
-[![Platform](https://img.shields.io/cocoapods/p/LBTAComponents.svg?style=flat)](http://cocoapods.org/pods/LBTAComponents)
+https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36.svg)]()
 [![CocoaPods](https://img.shields.io/cocoapods/l/AFNetworking.svg)]()
 
 ![LBTABanner](http://i.imgur.com/tTQOLtp.png)
