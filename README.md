@@ -9,7 +9,7 @@
 
 
 ## Description
-MAGAHelpers is a simple library, which helps me to build out production applications.
+MAGAHelpers is a simple library, which I use to build out production applications.
 
 ## Requirements
 
