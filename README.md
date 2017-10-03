@@ -1,7 +1,8 @@
 # MAGAHelpers
 
 [![CI Status](http://img.shields.io/travis/Brian Voong/LBTAComponents.svg?style=flat)](https://travis-ci.org/Brian Voong/LBTAComponents)
-https://img.shields.io/badge/pod-v1.0.4-green.svg
+[![Uptime Robot status](https://img.shields.io/badge/pod-v1.0.4-green.svg)]()
+
 [![Uptime Robot status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36.svg)]()
 [![CocoaPods](https://img.shields.io/cocoapods/l/AFNetworking.svg)]()
 
