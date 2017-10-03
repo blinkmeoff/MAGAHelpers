@@ -1,4 +1,4 @@
-![MAGAHelpersBanner](https://i.imgur.com/Ao3sJG6.png)
+![MAGAHelpersBanner](https://i.imgur.com/gy7iPJP.png)
 
 [![Uptime Robot status](https://img.shields.io/badge/platform-iOS-blue.svg)]()
 [![Uptime Robot status](https://img.shields.io/badge/pod_version-v1.0.4-green.svg)]()
