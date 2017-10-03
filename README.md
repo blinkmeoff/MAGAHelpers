@@ -32,7 +32,7 @@ MAGAHelpers is a very simple library of components I use to build out production
 $ gem install cocoapods
 ```
 To integrate MAGAHelpers into your Xcode project using CocoaPods, specify it in your `Podfile`:
-
+```
 target '<Your Target Name>' do
     pod 'MAGAHelpers'
 end
