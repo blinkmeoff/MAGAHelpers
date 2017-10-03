@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/blinkmeoff/MAGAHelpers.git', :tag => s.version.to_s }
   s.author             = { "MAGA" => "self.magurean@gmail.com" }
   s.ios.deployment_target = "10.0"
-  s.source_files = "Classes/*.{swift}"
+  s.source_files = "MAGAHelpers/Classes/*.{swift}"
 
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
   # s.public_header_files = 'Pod/Classes/**/*.h'
