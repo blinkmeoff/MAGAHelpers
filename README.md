@@ -46,8 +46,8 @@ $ pod install
 
 ## Author
 
-Brian Voong, letsbuildthatapp@gmail.com
+Igor Magurean, self.magurean@gmail.com
 
 ## License
 
-LBTAComponents is available under the MIT license. See the LICENSE file for more info.
+MAGAHelpers is available under the MIT license. See the LICENSE file for more info.
