@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.summary      = "MAGAHelpers is a small library of components that makes it easy to build applications programmatically."
   s.description  = "MAGA Helpers is a small library of components that makes it easy to build applications, and it was build for personal cases."
   s.homepage     = "http://github.com/blinkmeoff/MAGAHelpers"
-  s.license      = { :type => "MIT", :file => "LICENSE" }
+  s.license      = { :type => "MIT", :file => "LICENSE.txt" }
   s.source           = { :git => 'https://github.com/blinkmeoff/MAGAHelpers.git', :tag => s.version.to_s }
   s.author             = { "MAGA" => "self.magurean@gmail.com" }
   s.ios.deployment_target = "10.0"
