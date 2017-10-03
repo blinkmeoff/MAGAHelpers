@@ -6,7 +6,7 @@
 [![Uptime Robot status](https://img.shields.io/badge/support-self.magurean%40gmail.com-red.svg)]()
 
 
-![LBTABanner](http://i.imgur.com/tTQOLtp.png)
+![MAGAHelpersBanner](https://imgur.com/a/BxhKM)
 
 ## Description
 MAGAHelpers is a very simple library of components I use to build out production applications.  The ultimate goal of open sourcing this chunk of code is to speed up the teaching and recording process for all the tutorials on my YouTube channel [LetsBuildThatApp](https://www.youtube.com/letsbuildthatapp).
