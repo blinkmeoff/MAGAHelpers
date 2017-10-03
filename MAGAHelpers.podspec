@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "MAGAHelpers"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.summary      = "MAGAHelpers is a small library of components that makes it easy to build applications programmatically."
   s.description  = "MAGA Helpers is a small library of components that makes it easy to build applications, and it was build for personal cases."
   s.homepage     = "http://github.com/blinkmeoff/MAGAHelpers"
