@@ -43,3 +43,11 @@ Then, run the following command:
 ```bash
 $ pod install
 ```
+
+## Author
+
+Brian Voong, letsbuildthatapp@gmail.com
+
+## License
+
+LBTAComponents is available under the MIT license. See the LICENSE file for more info.
